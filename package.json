@@ -1,0 +1,8 @@
+{
+  "name": "@flcoder/bk-common",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:flcoder/bk-common.git",
+  "author": "William Oney <flcoder@gmail.com>",
+  "license": "MIT"
+}
